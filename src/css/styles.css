@@ -1,5 +1,4 @@
 * {
-
   margin: 0;
   padding: 0px;
   box-sizing: border-box;
@@ -14,7 +13,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-
 }
 
 a {
@@ -22,9 +20,11 @@ a {
 
   color: white;
 }
+
 ul {
   list-style: none;
 }
+
 img {
   width: 100%;
 }
@@ -71,8 +71,6 @@ section p {
   display: inline-block;
   width: 40%;
   vertical-align: top;
-}
-=======
   color: black;
 }
 
@@ -244,4 +242,3 @@ h1 {
   top: 350px;
   left: 0px;
 }
-
