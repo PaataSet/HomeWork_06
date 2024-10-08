@@ -242,3 +242,91 @@ h1 {
   top: 350px;
   left: 0px;
 }
+
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: black;
+}
+
+
+/* @font-face {
+  font-family: 'Helvetica-Neue-LT-GEO-55Roman';
+  src: url('../fonts/HelveticaNeueLTGEO-75Bold.woff2') format('woff2'),
+      url('../fonts/HelveticaNeueLTGEO-75Bold.woff') format('woff'),
+      url('../fonts/HelveticaNeueLTGEO-75Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica-Neue-LT-GEO-45-Lights';
+  src: url('../fonts/HelveticaNeueLTGEO-45Lights.woff2') format('woff2'),
+      url('../fonts/HelveticaNeueLTGEO-45Lights.woff') format('woff'),
+      url('../fonts/HelveticaNeueLTGEO-45Lights.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+} */
+
+
+header {
+  background-color: blue;
+}
+a {
+  text-decoration: none;
+  color: black;
+  vertical-align: middle;
+  display: inline;
+}
+.header-container {
+max-width: 1640px;
+width: 96%;
+margin: 0 auto;
+  /* background-color: blue; */
+  display: flex;
+  font-family: Helvetica-Neue-LT-GEO-55Roman ;
+}
+nav,nav li {
+  margin-right: 20px;
+  display: inline-block;
+  align-items: center;
+}
+.logo img {
+  width: 100px;
+}
+
+nav{
+  margin-left: auto;
+}
+
+.contact {
+  /* display: inline-block; */
+  padding: 10px 20px;
+  border-radius: 28px;
+  background-color: white;
+  /* color: black; */
+}
+.mtavari {
+  color: black;
+  font-size: ;
+}
+.photos {
+  display: inline-block;
+  max-width: 1920px;
+width: 96%;
+margin: 0 auto;
+}
+.photo-1 {
+  max-width: 707px;
+  width: 100%;
+  margin: 80px 200px 120px 24px;
+}
+.photo-2 {
+  max-width: 948px;
+  width: 100%;
+  height: auto;
+}
