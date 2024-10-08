@@ -323,7 +323,7 @@ nav {
 }
 .photos {
   display: inline-block;
-  /* max-width: 1920px; */
+  max-width: 1920px;
   width: 96%;
   margin: 0 auto;
 }
